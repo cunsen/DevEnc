@@ -1,0 +1,56 @@
+﻿<VS user="chencs">
+  <ThkTms509.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Tms)热控(501,509)[LP]\dll" />
+  </ThkTms509.sln>
+  <ThkCab3V10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Cab3)快速布线  (501,509,一院)[LP]\dll" />
+  </ThkCab3V10.sln>
+  <ThkStruDesV5.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(StruDes)结构设计(509)\dll" />
+  </ThkStruDesV5.sln>
+  <ThkSatBom.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(SatBom)卫星明细          (509)[LP]\dll" />
+  </ThkSatBom.sln>
+  <ThkTms501.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Tms501)热控[LP]\dll" />
+  </ThkTms501.sln>
+  <ThkDesPub.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(DesPub)设计发布V2(501)\dll" />
+  </ThkDesPub.sln>
+  <ThkTddmViewer.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(TDDM)工艺数字样机\exe" />
+  </ThkTddmViewer.sln>
+  <ThkBoxDes.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(BoxDes)机箱设计\dll" />
+  </ThkBoxDes.sln>
+  <ThkCab504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(cab504)504电缆\dll" />
+  </ThkCab504.sln>
+  <ThkCoDes504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\504协同设计ThkCoDes504\dll" />
+  </ThkCoDes504.sln>
+  <ThkFastLyt.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(FastLyt)快速布局\dll" />
+  </ThkFastLyt.sln>
+  <ThkLayDrw501.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Laydrw501)501总装工程图\dll" />
+  </ThkLayDrw501.sln>
+  <ThkDevDes504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\504DevDes设备参数协同\dll" />
+  </ThkDevDes504.sln>
+  <ThkFConfDes.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(FConfDes)501模型改名" />
+  </ThkFConfDes.sln>
+  <ThkParaTool.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\（ParaTool）通用参数工具\dll" />
+  </ThkParaTool.sln>
+  <ThkPhaseChg.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(PhaseChg)509转阶段\dll" />
+  </ThkPhaseChg.sln>
+  <ThkSkelDes509.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\509总体骨架SkelDes509\dll" />
+  </ThkSkelDes509.sln>
+  <ThkStdTool.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\808标准件工具ThkStdTool\dll" />
+  </ThkStdTool.sln>
+</VS>

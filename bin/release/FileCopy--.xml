@@ -1,0 +1,80 @@
+﻿<VS user="N">
+  <ThkCabDesV5.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(CabDes)电缆设计 (504,38所,小卫星)\dll" />
+  </ThkCabDesV5.sln>
+  <ThkTms509.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Tms)热控(501,509)[LP]\dll" />
+  </ThkTms509.sln>
+  <ThkCabDrw.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(CabDrw)电缆二维图  (小卫星)[LP]\dll" />
+  </ThkCabDrw.sln>
+  <ThkCab3V10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Cab3)快速布线  (501,509,一院)[LP]\dll" />
+  </ThkCab3V10.sln>
+  <ThkStruDesV5.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(StruDes)结构设计(509)\dll" />
+  </ThkStruDesV5.sln>
+  <ThkDesIntf509v10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\509设计接口DesIntf509\dll" />
+  </ThkDesIntf509v10.sln>
+  <ThkSatBom.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(SatBom)卫星明细          (509)[LP]\dll" />
+  </ThkSatBom.sln>
+  <ThkPip.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(NPip)管路                     (一院)[LP]\dll" />
+  </ThkPip.sln>
+  <ThkCoDesignv10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(CoDesign)设计协同         (509)\dll" />
+  </ThkCoDesignv10.sln>
+  <ThkPubEApiV10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(ShellDes)壳段设计\dll" />
+  </ThkPubEApiV10.sln>
+  <ThkShellDes.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(ShellDes)壳段设计\dll" />
+  </ThkShellDes.sln>
+  <ThkLitWet.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(LitWet)模型简化(504)\dll" path2="" />
+  </ThkLitWet.sln>
+  <ThkTDDM.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(TDDM)工艺数字样机\dll" />
+  </ThkTDDM.sln>
+  <ThkTms501.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Tms501)热控[LP]\dll" />
+  </ThkTms501.sln>
+  <ThkDesPub.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(DesPub)设计发布V2(501)\dll" />
+  </ThkDesPub.sln>
+  <ThkTddmViewer.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(TDDM)工艺数字样机\exe" />
+  </ThkTddmViewer.sln>
+  <ThkBoxDes.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(BoxDes)机箱设计\dll" />
+  </ThkBoxDes.sln>
+  <ThkCab504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(cab504)504电缆\dll" />
+  </ThkCab504.sln>
+  <ThkCoDes504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\504协同设计ThkCoDes504\dll" />
+  </ThkCoDes504.sln>
+  <ThkFastLyt.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(FastLyt)快速布局\dll" />
+  </ThkFastLyt.sln>
+  <ThkVaneDesV10.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\东汽叶片ThkVaneDes\dll" />
+  </ThkVaneDesV10.sln>
+  <ThkLayDrw501.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Laydrw501)501总装工程图\dll" />
+  </ThkLayDrw501.sln>
+  <ThkMbdTool.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(MbdTool)三维下厂509\dll" />
+  </ThkMbdTool.sln>
+  <ThkDevDes504.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\504DevDes设备参数协同\dll" />
+  </ThkDevDes504.sln>
+  <ThkMdlComp.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(MdlComp)模型比对(6)\dll" />
+  </ThkMdlComp.sln>
+  <ThkCab805.sln>
+    <ThkServer path="\\thkserver\项目共享\项目V53\(Cab805)电缆\dll" />
+  </ThkCab805.sln>
+</VS>

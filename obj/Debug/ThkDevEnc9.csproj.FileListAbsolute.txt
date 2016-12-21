@@ -1,0 +1,56 @@
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\bin\debug\ThkDevEnc.dll.config
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\bin\debug\ThkDevEnc.dll
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\bin\debug\ThkDevEnc.pdb
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.ResolveComReference.cache
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.CommandBar.resources
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.EncSet.resources
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.SelForm.resources
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.VcInfoSet.resources
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.GenerateResource.Cache
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.dll
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.pdb
+E:\Project\sinfee\ThkDevTools\ThkDevEnc\obj\Debug\ThkDevEnc.ProUnLock.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.ResolveComReference.cache
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.CommandBar.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.EncSet.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\LP_SC.FileCopyForm.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.ProUnLock.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.SelForm.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.VcInfoSet.resources
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.GenerateResource.Cache
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.dll
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\obj\Debug\ThkDevEnc.pdb
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\bin\debug\ThkDevEnc.dll.config
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\bin\debug\ThkDevEnc.dll
+E:\我的文档\BigAnt\My Received Files\ThkDevEnc\bin\debug\ThkDevEnc.pdb
+E:\SVN\ThkApis\ThkDevEnc\bin\debug\ThkDevEnc.dll.config
+E:\SVN\ThkApis\ThkDevEnc\bin\debug\ThkDevEnc.dll
+E:\SVN\ThkApis\ThkDevEnc\bin\debug\ThkDevEnc.pdb
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.ResolveComReference.cache
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.CommandBar.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.EncSet.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\LP_SC.FileCopyForm.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.ProUnLock.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.SelForm.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.UpFileSet.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.VcInfoSet.resources
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.GenerateResource.Cache
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.dll
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc.pdb
+E:\SVN\ThkApis\ThkDevEnc\obj\Debug\ThkDevEnc9.csprojResolveAssemblyReference.cache
+E:\project\ThkDevEnc\bin\debug\ThkDevEnc.dll.config
+E:\project\ThkDevEnc\bin\debug\ThkDevEnc.dll
+E:\project\ThkDevEnc\bin\debug\ThkDevEnc.pdb
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc9.csprojResolveAssemblyReference.cache
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.ResolveComReference.cache
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.CommandBar.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.EncSet.resources
+E:\project\ThkDevEnc\obj\Debug\LP_SC.FileCopyForm.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.ProUnLock.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.SelForm.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.UpFileSet.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.VcInfoSet.resources
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc9.csproj.GenerateResource.Cache
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.dll
+E:\project\ThkDevEnc\obj\Debug\ThkDevEnc.pdb
